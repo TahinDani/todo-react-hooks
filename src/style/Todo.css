@@ -1,0 +1,20 @@
+.Todo {
+	display: flex;
+	align-items: center;
+}
+
+.Todo-task {
+	margin-left: .5em;
+}
+
+.Todo-edit {
+	width: 25px;
+	height: 25px;
+	margin-left: auto;
+	margin-right: 1em;
+}
+
+.Todo-delete {
+	width: 25px;
+	height: 25px;
+}

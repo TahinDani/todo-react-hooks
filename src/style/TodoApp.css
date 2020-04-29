@@ -1,0 +1,17 @@
+.header {
+	background: #0F8CFF;
+	padding: 1em;
+	text-align: center;
+}
+
+.logo {
+	width: 30px;
+}
+
+.todo-container {
+	border: 2px solid #0F8CFF;
+	border-radius: 2em;
+	overflow: hidden;
+	width: min(500px, 90%);
+	margin: 3em auto;
+}

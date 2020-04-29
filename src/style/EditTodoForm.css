@@ -1,0 +1,16 @@
+.EditTodoForm {
+	width: 100%;
+}
+
+.EditTodoForm form input {
+	width: 100%;
+	padding: 0.5em 0.5em 0;
+	box-sizing: border-box;
+	border: none;
+	border-bottom: 1px solid #0F8CFF;
+	font-size: 1.2rem;
+}
+
+.EditTodoForm form input:focus {
+	outline: none;
+}
